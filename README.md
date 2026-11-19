@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there! 👋 I'm Divya
 
-<!--
-**divyadineshprabu-commits/divyadineshprabu-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Business Architecture Analyst | Retail Technology | IT Support
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Business Architecture Analyst with experience in retail technology, production support, application monitoring, and troubleshooting.
+
+### 💼 Professional Experience
+- Retail POS application support
+- VTEX platform production support
+- Azure Data Factory pipeline monitoring
+- Middleware and integration monitoring
+- Incident analysis and troubleshooting
+
+### 🛠️ Technical Skills
+- **Databases:** PostgreSQL, SQL
+- **Cloud:** Microsoft Azure
+- **Tools:** Azure Data Factory, WinSCP, Postman, pgAdmin, GitHub
+- **Platforms:** VTEX, Xstore
+- **Learning:** Java, Spring Boot, Microservices
+
+### 📚 Currently Learning
+- Git and GitHub
+- Java and Spring Boot
+- Software development and version control
+
+### 🎯 My Goal
+To continuously improve my technical skills, explore new technologies, and build practical projects.
+
+Thanks for visiting my profile! 😊
